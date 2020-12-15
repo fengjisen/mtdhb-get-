@@ -60,3 +60,5 @@ yarn reload
 请查看 pm2 文档 https://www.npmjs.com/package/pm2
 
 另外在 `log/` 目录也将按照日期输出每天的日志
+
+test
